@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmBatchApiClient", "ArmBatchApiClient\ArmBatchApiClient.csproj", "{74BA36BB-15A1-4111-A443-B09E9CCC5A7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74BA36BB-15A1-4111-A443-B09E9CCC5A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BA36BB-15A1-4111-A443-B09E9CCC5A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BA36BB-15A1-4111-A443-B09E9CCC5A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BA36BB-15A1-4111-A443-B09E9CCC5A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
